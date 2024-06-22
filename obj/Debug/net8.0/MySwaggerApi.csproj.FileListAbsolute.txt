@@ -60,3 +60,4 @@
 /home/more/Documents/BluAPI/MySwaggerApi/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/more/Documents/BluAPI/MySwaggerApi/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/more/Documents/BluAPI/MySwaggerApi/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/more/Documents/BluAPI/MySwaggerApi/obj/Debug/net8.0/MySwaggerApi.sourcelink.json

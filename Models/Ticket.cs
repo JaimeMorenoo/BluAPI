@@ -1,11 +1,14 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace swag.Models {
 
     public class Ticket {
 
-        public int ticketID {get; set;}
-        public int customerID {get; set;}
-        public int eventID {get; set;}
-        public int venueID {get; set;}
+        [Key]
+        public int ticket_id {get; set;}
+        public int customer_id {get; set;}
+        public int event_id {get; set;}
+        public int venue_id {get; set;}
         public string issued_date {get; set;}
         public string due_date {get; set;}
         public int price {get; set;}
